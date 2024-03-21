@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//* Go dilinde Array bu şekilde tanımlanır.
 func main(){
 	// var names [3]string
 

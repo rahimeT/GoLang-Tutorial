@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//* Struct yapısı, birbirine bağlı farklı tipteki verileri bir arada tutmak için kullanılır.
+
 func main(){
 	var c1 Customer
 	// var c2 Customer
